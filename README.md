@@ -1,4 +1,4 @@
-<h1 align="center">Space Cream </h1>
+<h1 align="center">BISCOITO DA SORTE</h1>
 
 <p align="center">
 Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -28,7 +28,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 BISCOITO DA SORTE é um projeto feito com intuito de aperfeiçoar e praticar o que foi ensinado nas aulas do stage 05 da trilha explorer colocando JavaScript em pratica.
 
-- [Acesse o projeto finalizado, online](https://marcioedu.github.io/projeto-05-extra)
+- [Acesse o projeto finalizado, online](https://marcioedu.github.io/biscoito-sorte/)
 
 ---
 
